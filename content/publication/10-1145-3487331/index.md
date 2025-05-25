@@ -13,7 +13,7 @@ date: '2022-01-01'
 publishDate: '2025-05-25T08:14:53.221628Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Knowl. Discov. Data*'
+publication: 'ACM Transactions on Knowledge Discovery from Data *(TKDD)*'
 doi: 10.1145/3487331
 abstract: Cross-domain sequential recommendation is the task of predict the next item
   that the user is most likely to interact with based on past sequential behavior

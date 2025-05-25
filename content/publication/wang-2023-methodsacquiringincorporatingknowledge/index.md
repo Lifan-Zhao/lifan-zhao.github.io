@@ -18,6 +18,4 @@ publication_types:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2308.04947
-- name: URL
-  url: https://arxiv.org/abs/2308.04947
 ---

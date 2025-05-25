@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lifan Zhao (赵立帆)
+title: Lifan Zhao
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -40,26 +40,33 @@ profiles:
 interests:
   - Meta-Learning
   - Online Learning
-  - Data-centric AI
+  - Data-Centric AI
   - Temporal Data Mining
 
 education:
-  - area: PhD
+  - area: Ph.D in Computer Science
     institution: Shanghai Jiao Tong University
     date_start: 2021-09-01
-    date_end: 2026-06-30
+    date_end: ''
     summary: |
       Supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/). 
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: Bachelor
+  - area: B.S. in Software Engineering
     institution: Shandong University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-09-01
+    date_end: 2021-06-30
     # summary: |
     #   GPA Rank: 3/342
-    
+
+work:
+  - position: Research Intern
+    company_name: Tongyi Lab, Alibaba Group
+    company_url: https://tongyi.aliyun.com/welcome
+    company_logo: https://img.alicdn.com/imgextra/i1/O1CN01LcrUBR1wfU0YVPCet_!!6000000006335-2-tps-2480-400.png
+    date_start: 2024-11-22
+    date_end: ''
 ---
 
 ## About Me
