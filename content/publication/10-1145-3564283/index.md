@@ -3,7 +3,7 @@ title: 'RESUS: Warm-up Cold Users via Meta-learning Residual User Preferences in
   Prediction'
 authors:
 - Yanyan Shen
-- Lifan Zhao
+- admin
 - Weiyu Cheng
 - Zibin Zhang
 - Wenwen Zhou
@@ -12,7 +12,7 @@ date: '2023-02-01'
 publishDate: '2025-05-25T08:14:53.213675Z'
 publication_types:
 - article-journal
-publication: 'ACM Transactions on Information System (TOIS)'
+publication: 'ACM Transactions on Information System **(TOIS)**'
 doi: 10.1145/3564283
 abstract: Click-through Rate (CTR) prediction on cold users is a challenging task
   in recommender systems. Recent researches have resorted to meta-learning to tackle

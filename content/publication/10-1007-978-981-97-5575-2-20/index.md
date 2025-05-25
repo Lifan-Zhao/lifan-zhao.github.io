@@ -10,7 +10,7 @@ date: '2024-01-01'
 publishDate: '2025-05-25T08:14:53.229533Z'
 publication_types:
 - paper-conference
-publication: 'Database Systems for Advanced Applications: 29th International Conference (DASFAA 2024)'
+publication: "Database Systems for Advanced Applications: 29th International Conference (DASFAA'24)"
 doi: 10.1007/978-981-97-5575-2_20
 abstract: Stock trend forecasting is crucial for quantitative investment and various
   deep learning models have been proposed to obtain superior performance. Due to the

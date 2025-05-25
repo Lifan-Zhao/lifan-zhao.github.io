@@ -7,8 +7,9 @@ date: '2025-02-01'
 publishDate: '2025-05-25T08:14:53.191810Z'
 publication_types:
 - paper-conference
-publication: 'Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery
-  and Data Mining *(KDD 2025)*'
+publication: "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery
+  and Data Mining"
+publication_short: "KDD'25"
 doi: 10.1145/3690624.3709210
 links:
 url_pdf: https://arxiv.org/pdf/2412.08435

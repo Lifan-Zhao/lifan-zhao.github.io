@@ -8,7 +8,8 @@ date: '2024-01-01'
 publishDate: '2025-05-25T08:14:53.200877Z'
 publication_types:
 - paper-conference
-publication: 'The Twelfth International Conference on Learning Representations *(ICLR 2024)*'
+publication: "The Twelfth International Conference on Learning Representations"
+publication_short: "ICLR'24"
 links:
 - name: OpenReview
   url: https://openreview.net/forum?id=JiTVtCUOpS
