@@ -46,8 +46,8 @@ interests:
 education:
   - area: PhD
     institution: Shanghai Jiao Tong University
-    date_start: 2021-09
-    date_end: 2026-06 (Expected)
+    date_start: 2021-09-01
+    date_end: 2026-06-30
     summary: |
       Supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/). 
     # button:
