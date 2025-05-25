@@ -1,0 +1,100 @@
+
+@InProceedings{Proceed,
+  author       = {Lifan Zhao and Yanyan Shen},
+  booktitle    = {Proceedings of the 31st {ACM} {SIGKDD} Conference on Knowledge Discovery and Data Mining},
+  title        = {Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting},
+  year         = {2025},
+  month        = {feb},
+  publisher    = {{ACM}},
+  doi          = {10.1145/3690624.3709210},
+}
+
+@inproceedings{
+LIFT,
+title={Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators},
+author={Lifan Zhao and Yanyan Shen},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=JiTVtCUOpS}
+}
+
+@InProceedings{DoubleAdapt,
+  author       = {Zhao, Lifan and Kong, Shuming and Shen, Yanyan},
+  booktitle    = {Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  title        = {DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting},
+  year         = {2023},
+  month        = aug,
+  publisher    = {ACM},
+  series       = {KDD ’23},
+  collection   = {KDD ’23},
+  creationdate = {2024-01-26T22:28:29},
+  doi          = {10.1145/3580305.3599315},
+  groups       = {Concept drift},
+}
+
+@article{10.1145/3564283,
+author = {Shen, Yanyan and Zhao, Lifan and Cheng, Weiyu and Zhang, Zibin and Zhou, Wenwen and Kangyi, Lin},
+title = {RESUS: Warm-up Cold Users via Meta-learning Residual User Preferences in CTR Prediction},
+year = {2023},
+issue_date = {July 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {41},
+number = {3},
+issn = {1046-8188},
+url = {https://doi.org/10.1145/3564283},
+doi = {10.1145/3564283},
+abstract = {Click-through Rate (CTR) prediction on cold users is a challenging task in recommender systems. Recent researches have resorted to meta-learning to tackle the cold-user challenge, which either perform few-shot user representation learning or adopt optimization-based meta-learning. However, existing methods suffer from information loss or inefficient optimization process, and they fail to explicitly model global user preference knowledge, which is crucial to complement the sparse and insufficient preference information of cold users. In this article, we propose a novel and efficient approach named RESUS, which decouples the learning of global preference knowledge contributed by collective users from the learning of residual preferences for individual users. Specifically, we employ a shared predictor to infer basis user preferences, which acquires global preference knowledge from the interactions of different users. Meanwhile, we develop two efficient algorithms based on the nearest neighbor and ridge regression predictors, which infer residual user preferences via learning quickly from a few user-specific interactions. Extensive experiments on three public datasets demonstrate that our RESUS approach is efficient and effective in improving CTR prediction accuracy on cold users, compared with various state-of-the-art methods.},
+journal = {ACM Trans. Inf. Syst.},
+month = feb,
+articleno = {69},
+numpages = {26},
+keywords = {Cold-start recommendation, CTR prediction, few-shot learning, metric-based meta learning}
+}
+
+@article{10.1145/3487331,
+author = {Ma, Muyang and Ren, Pengjie and Chen, Zhumin and Ren, Zhaochun and Zhao, Lifan and Liu, Peiyu and Ma, Jun and de Rijke, Maarten},
+title = {Mixed Information Flow for Cross-Domain Sequential Recommendations},
+year = {2022},
+issue_date = {August 2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {16},
+number = {4},
+issn = {1556-4681},
+url = {https://doi.org/10.1145/3487331},
+doi = {10.1145/3487331},
+abstract = {Cross-domain sequential recommendation is the task of predict the next item that the user is most likely to interact with based on past sequential behavior from multiple domains. One of the key challenges in cross-domain sequential recommendation is to grasp and transfer the flow of information from multiple domains so as to promote recommendations in all domains. Previous studies have investigated the flow of behavioral information by exploring the connection between items from different domains. The flow of knowledge (i.e., the connection between knowledge from different domains) has so far been neglected. In this article, we propose a mixed information flow network for cross-domain sequential recommendation to consider both the flow of behavioral information and the flow of knowledge by incorporating a behavior transfer unit and a knowledge transfer unit. The proposed mixed information flow network is able to decide when cross-domain information should be used and, if so, which cross-domain information should be used to enrich the sequence representation according to users’ current preferences. Extensive experiments conducted on four e-commerce datasets demonstrate that the proposed mixed information flow network is able to improve recommendation performance in different domains by modeling mixed information flow. In this article, we focus on the application of mixed information flow networks to a scenario with two domains, but the method can easily be extended to multiple domains.},
+journal = {ACM Trans. Knowl. Discov. Data},
+month = jan,
+articleno = {64},
+numpages = {32},
+keywords = {Cross-domain recommendation, sequential recommendation, knowledge base, graph transfer}
+}
+
+@inproceedings{10.1007/978-981-97-5575-2_20,
+author = {Zhang, Zexi and Zhao, Lifan and Shen, Yanyan and Yao, Bin},
+title = {StockCL: Selective Contrastive Learning for&nbsp;Stock Trend Forecasting via&nbsp;Learnable Concepts},
+year = {2024},
+isbn = {978-981-97-5574-5},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+url = {https://doi.org/10.1007/978-981-97-5575-2_20},
+doi = {10.1007/978-981-97-5575-2_20},
+abstract = {Stock trend forecasting is crucial for quantitative investment and various deep learning models have been proposed to obtain superior performance. Due to the limited stock data, existing deep learning models suffer from overfitting. It has been revealed that supervised contrastive learning can provide additional supervision signals by pulling closer samples with the same label and pushing apart samples with different labels. However, stock data has continuous labels and it is nontrivial to identify appropriate contrastive pairs based on label information. In this paper, we develop a novel selective contrastive learning framework named StockCL for stock trend forecasting, which is applicable to any stock trend forecasting models. Our key insight is to identify latent concepts that drive the stock trends and select reliable contrastive pairs according to the samples’ belonging concepts and their label similarity. Experiments on two datasets with four stock trend forecasting models demonstrate that StockCL consistently improves the forecasting performance with a significant margin by 5\%–18\%. Code is available at .},
+booktitle = {Database Systems for Advanced Applications: 29th International Conference, DASFAA 2024, Gifu, Japan, July 2-5, 2024, Proceedings, Part VII},
+pages = {275–284},
+numpages = {10},
+keywords = {Stock trend forecasting, Contrastive learning},
+location = {Gifu, Japan}
+}
+
+@misc{wang2023methodsacquiringincorporatingknowledge,
+      title={Methods for Acquiring and Incorporating Knowledge into Stock Price Prediction: A Survey}, 
+      author={Liping Wang and Jiawei Li and Lifan Zhao and Zhizhuo Kou and Xiaohan Wang and Xinyi Zhu and Hao Wang and Yanyan Shen and Lei Chen},
+      year={2023},
+      eprint={2308.04947},
+      archivePrefix={arXiv},
+      primaryClass={q-fin.ST},
+      url={https://arxiv.org/abs/2308.04947}, 
+}
