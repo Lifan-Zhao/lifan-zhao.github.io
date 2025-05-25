@@ -4,7 +4,7 @@ title: 'Methods for Acquiring and Incorporating Knowledge into Stock Price Predi
 authors:
 - Liping Wang
 - Jiawei Li
-- Lifan Zhao
+- admin
 - Zhizhuo Kou
 - Xiaohan Wang
 - Xinyi Zhu

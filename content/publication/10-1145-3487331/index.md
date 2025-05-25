@@ -5,7 +5,7 @@ authors:
 - Pengjie Ren
 - Zhumin Chen
 - Zhaochun Ren
-- Lifan Zhao
+- admin
 - Peiyu Liu
 - Jun Ma
 - Maarten de Rijke
