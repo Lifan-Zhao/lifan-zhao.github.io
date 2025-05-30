@@ -2,7 +2,7 @@
 title: 'Less is More: Unlocking Specialization of Time Series Foundation Models via
   Structured Pruning'
 authors:
-- Lifan Zhao
+- admin
 - Yanyan Shen
 - Zhaoyang Liu
 - Xue Wang
