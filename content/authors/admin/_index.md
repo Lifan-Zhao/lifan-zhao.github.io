@@ -49,7 +49,8 @@ education:
     date_start: 2021-09-01
     date_end: ''
     summary: |
-      Supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/), [Data Driven Software Technology Lab](https://ddst.sjtu.edu.cn/)
+      Supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/), 
+      [Data Driven Software Technology Lab](https://ddst.sjtu.edu.cn/)
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -61,16 +62,16 @@ education:
     #   GPA Rank: 3/342
 
 work:
+  - position: JinDouYun Talent Program Intern
+    company_name: ByteDance
+    date_start: 2025-06-15
+    date_end: ''
   - position: Research Intern
     company_name: TongYi Lab, Alibaba Group
     company_url: 'https://tongyi.aliyun.com/welcome'
     company_logo: 'https://img.alicdn.com/imgextra/i1/O1CN01LcrUBR1wfU0YVPCet_!!6000000006335-2-tps-2480-400.png'
     date_start: 2024-11-22
     date_end: 2025-06-12
-  - position: JinDouYun Talent Program Intern
-    company_name: ByteDance
-    date_start: 2025-06-15
-    date_end: ''
 ---
 
 ## About Me
