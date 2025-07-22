@@ -67,15 +67,15 @@ work:
     company_logo: https://img.alicdn.com/imgextra/i1/O1CN01LcrUBR1wfU0YVPCet_!!6000000006335-2-tps-2480-400.png
     date_start: 2024-11-22
     date_end: 2025-06-12
-  # - position: JinDouYun Talent Program Intern
-  #   company_name: ByteDance
-  #   date_start: 2025-06-15
-  #   date_end: ''
-  #   company_url: ''
-  #   company_logo: ''
+  - position: JinDouYun Talent Program Intern
+    company_name: ByteDance
+    date_start: 2025-06-15
+    date_end: ''
+    company_url: ''
+    company_logo: ''
 ---
 
 ## About Me
 
-I am a fourth-year Ph.D. student in Computer Science at Shanghai Jiao Tong University. I am broadly interested in meta-learning, online learning, 
-and data-centric AI for foundation models. My previous work mainly focus on data-driven applications including time series forecasting and recommender systems. I recently worked on Agentic AI at Tongyi Lab, Alibaba Group, and I am currently working on multi-modal time series reasoning at ByteDance. 
+I am a fourth-year Ph.D. student in Computer Science at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/en/). I am broadly interested in meta-learning, online learning, 
+and data-centric AI for foundation models. My previous work mainly focus on data-driven applications including time series forecasting and recommender systems. I recently worked on Agentic AI at [Tongyi Lab](https://tongyi.aliyun.com/welcome), Alibaba Group, and I am currently working on multi-modal time series reasoning at ByteDance. 
