@@ -49,7 +49,7 @@ education:
     date_start: 2021-09-01
     date_end: ''
     summary: |
-      Supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/), [Data Driven Software Technology Lab](https://ddst.sjtu.edu.cn/).
+      Supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/).
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
