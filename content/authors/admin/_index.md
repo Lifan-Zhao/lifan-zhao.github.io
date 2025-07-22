@@ -49,7 +49,8 @@ education:
     date_start: 2021-09-01
     date_end: ''
     summary: |
-      Supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/).
+      Supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/), 
+      [Data Driven Software Technology Lab](https://ddst.sjtu.edu.cn/)
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -71,6 +72,8 @@ work:
     company_name: ByteDance
     date_start: 2025-06-15
     date_end: ''
+    company_url: ''
+    company_logo: ''
 ---
 
 ## About Me
