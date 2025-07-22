@@ -24,7 +24,7 @@ role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/en/)
+  - name: Shanghai Jiao Tong University
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -49,7 +49,8 @@ education:
     date_start: 2021-09-01
     date_end: ''
     summary: |
-      Supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/), [Data Driven Software Technology Lab](https://ddst.sjtu.edu.cn/)
+      Supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/). 
+      [Data Driven Software Technology Lab](https://ddst.sjtu.edu.cn/)
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -62,7 +63,7 @@ education:
 
 work:
   - position: Research Intern
-    company_name: TongYi Lab](https://tongyi.aliyun.com/welcome), Alibaba Group
+    company_name: [TongYi Lab](https://tongyi.aliyun.com/welcome), Alibaba Group
     company_url: https://tongyi.aliyun.com/welcome
     company_logo: https://img.alicdn.com/imgextra/i1/O1CN01LcrUBR1wfU0YVPCet_!!6000000006335-2-tps-2480-400.png
     date_start: 2024-11-22
