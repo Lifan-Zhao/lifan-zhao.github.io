@@ -41,7 +41,7 @@ interests:
   - Meta-Learning
   - Online Learning
   - Data-Centric AI
-  - Temporal Data Mining
+  - LLM Post-Training
 
 education:
   - area: Ph.D. in Computer Science
