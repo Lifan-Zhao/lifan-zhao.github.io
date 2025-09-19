@@ -44,7 +44,7 @@ interests:
   - Temporal Data Mining
 
 education:
-  - area: Ph.D in Computer Science
+  - area: Ph.D. in Computer Science
     institution: Shanghai Jiao Tong University
     date_start: 2021-09-01
     date_end: ''
@@ -77,5 +77,7 @@ work:
 
 ## About Me
 
-I am a fourth-year Ph.D. student in Computer Science at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/en/), supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/). I am broadly interested in meta-learning, online learning, 
+I am a final-year Ph.D. student in Computer Science at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/en/), supervised by [Prof. Yanyan Shen](https://shen-yy.github.io/). I am broadly interested in meta-learning, online learning, 
 and post-training for foundation models. My previous work mainly focus on data-driven applications including time series forecasting and recommender systems. I recently worked on Agentic AI at [Tongyi Lab](https://tongyi.aliyun.com/welcome), Alibaba Group, and I am currently working on multi-modal time series reasoning at ByteDance. 
+
+I am on the job market now! Please reach out if you think I could be a fit for your group.
